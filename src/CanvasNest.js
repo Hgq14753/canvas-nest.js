@@ -16,8 +16,8 @@ export default class CanvasNest {
     this.c = {
       zIndex: -1,           // z-index
       opacity: 0.5,         // opacity
-      color: '0,0,0',       // color of lines
-      pointColor: '0,0,0',  // color of points
+      color: 'EE,59,72',       // color of lines
+      pointColor: 'D4,D4,D4',  // color of points
       count: 99,            // count
       ...config,
     };
